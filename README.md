@@ -8,11 +8,16 @@ Final Project implementation for SNAwR MASNA 2022
 - Large Presentation: Dec-24<br>
 - Small Presentation: Dec-30
 ## **1. Implementation timeline**
-```gantt
-title Key Milestones
-dateFormat YYYY-MM-DD
-section A section
-kickoff meeting: active, 2022-11-17, 2d
+```mermaid
+gantt
+    title 甘特图
+    dateFormat  YYYY-MM-DD
+    section 项目
+    A 项目           :A1, 2022-01-01, 30d
+    B 项目     :after A1  , 20d
+    section 子任务
+    子任务1      :2022-01-12  , 12d
+    子任务2      : 24d
 ```
 ## **2. Meeting Minutes**
 || Date | Goal | Agenda | Next Steps| Others |
