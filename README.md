@@ -12,12 +12,13 @@ Final Project implementation for SNAwR MASNA 2022
 ### **1. Large Presentation (Dec-24 for hand in)**
 |Item|Start Date|End Date|Stakeholder|
 |--|--|--|--|
-|1) Problem statement, actual trend and topic validity|Nov-19|Nov-20|kickoff meeting
-|2) Literature overview and formultation of an argument framework + reason to SNA|
-|3) Operationalization + constructing the measurements + theoretical/empirical object description|
+|1) Problem statement, actual trend and topic validity|Nov.19|Nov.20|kickoff meeting
+|2) Literature overview and formultation of an argument framework + reason to SNA|Nov.21|Nov.27|all|
+|3) Operationalization + constructing the measurements + theoretical/empirical object description|Nov.28|
 |4) Data Sourcing + Data Processing + Network Construction + Analysis|
-|5) Interpretation + Visualization + Conclusion|<br>
-|6) PPT making|
+|5) Interpretation + Visualization + Conclusion||Dec.20<br>
+|6) PPT making|Dec.20|Dec.24|
+|7) Presentation Preparation|Dec.26|Dec.29|
 ***➔Appendix with R code for Stages 4 & 5 (unlimited number of slides)***
 
 ### **2. Small Presentation (Dec-30 for pre)**
@@ -29,9 +30,11 @@ Final Project implementation for SNAwR MASNA 2022
 |--| -- | -- | :-- | :-- | -- |
 |1|Nov.20|Kick-Off|- 10 min Project briefing<br> -...<br> -  |...|link/any comment|
 
-1. Nov.20 meeting notes: <br>
-Agenda: <br>
-topic: 
+***1. Nov.20 meeting notes:*** <br>
+    Agenda: <br>
+    topic: <br>
+    Timeline of project:<br>
+    Related Literature: <br>
 
 
 
@@ -39,8 +42,8 @@ topic:
 
 
 
-## **3. ...**
-## **4. Reference Material**
+
+## **Reference Material**
 ### Suggested DataSet:
 - https://snap.stanford.edu/data/
 - https://www.kaggle.com/search?q=social+network
