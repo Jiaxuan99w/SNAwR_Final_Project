@@ -17,16 +17,23 @@ Final Project implementation for SNAwR MASNA 2022
 |3) Operationalization + constructing the measurements + theoretical/empirical object description|
 |4) Data Sourcing + Data Processing + Network Construction + Analysis|
 |5) Interpretation + Visualization + Conclusion|<br>
+|6) PPT making|
 ***➔Appendix with R code for Stages 4 & 5 (unlimited number of slides)***
+
 ### **2. Small Presentation (Dec-30 for pre)**
 - Based on Large Presentation
-
+|
 
 ## **Meeting Minutes**
 || Date | Goal | Agenda | Next Steps| Others |
 |--| -- | -- | :-- | :-- | -- |
-|1|Nov.18(TBD)|Kick-Off meeting|- 10 min Project briefing<br> -...<br> -  |...|link/any comment
- |
+|1|Nov.20|Kick-Off|- 10 min Project briefing<br> -...<br> -  |...|link/any comment|
+
+1. Nov.20 meeting notes: <br>
+Agenda: <br>
+topic: 
+
+
 
 
 
